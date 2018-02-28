@@ -5,6 +5,7 @@ Use CMacroLib Class
 
 1. Image Search
   ex)
+“`
     CMacroLib m_objMacroLib;
     int nFindPosX = 0;
     int nFIndPosY = 0;
@@ -16,7 +17,7 @@ Use CMacroLib Class
     {
       // find failed
     }
-
+`"
 2. Control Send
   ex)
     CMacroLib m_objMacroLib;
