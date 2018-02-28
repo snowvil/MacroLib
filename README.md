@@ -23,9 +23,10 @@ Use CMacroLib Class
 
 2. Control Send
   ex)
+```  
     CMacroLib m_objMacroLib;
     m_objMacroLib.ControlSend(m_pGameWnd,{esc}{Shift down}zh{Shift up}{home}{enter},_T(""),_T(""),_T(""),_T(""),false);
-
+```
 3. Set ClipBoard
 4. Mouse Move
 5. Mouse Click
